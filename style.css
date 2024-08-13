@@ -2,6 +2,14 @@ html {
   height: 100%;
   width: 100%;
 }
-h3.center {
+.center {
   text-align: center;
+}
+div.imagem {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.imagem {
+  border-radius: 50% 50% 50% 50%;
 }
